@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+python-dotenv
+fastapi
+uvicorn
+langchain-openai==0.3.32
+-e .
+
+
+
+
+
+
+
+
