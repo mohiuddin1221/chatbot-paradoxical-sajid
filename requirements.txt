@@ -4,6 +4,10 @@ langchain-core
 python-dotenv
 fastapi
 uvicorn
+pinecone
+langchain_pinecone
+langmem
+langchain-postgres
 langchain-openai==0.3.32
 -e .
 
